@@ -24,6 +24,7 @@ I'm a Mechanical Engineer, currently learning about Software Development, based 
 - 🔭 I’m currently working on building knowledge and skills in Artificial Intelligence & Data Science
 - 🌱 I’m currently learning TensorFlow and Machine Learning algorithms
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn)](https://www.linkedin.com/in/hobyratefy)
+- ⚡ Fun fact: I use Ubuntu as my daily OS. Previously was on macOS for 10+ years.
 
 ---
 
@@ -38,3 +39,7 @@ I'm a Mechanical Engineer, currently learning about Software Development, based 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
+
+---
+
+_P.S. I find the command line so fun_.
