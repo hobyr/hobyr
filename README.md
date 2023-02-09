@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I'm a Mechanical Engineer, currently learning about Software Development, based in Osaka, Japan. :jp:
 
-- 🔭 I’m currently working on building knowledge and skills in Artificial Intelligence & Data Science
+- 🔭 I’m currently working on building knowledge and skills in Web Development
 - 🌱 I’m currently learning TensorFlow and Machine Learning algorithms
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn)](https://www.linkedin.com/in/hobyratefy)
 - ⚡ Fun fact: I use Ubuntu as my daily OS. Previously was on macOS for 10+ years.
@@ -34,9 +34,13 @@ I'm a Mechanical Engineer, currently learning about Software Development, based 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="60" height="60"/>&nbsp;
+  -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="60" height="60"/>&nbsp;
+  <!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>&nbsp;
+  -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
 
