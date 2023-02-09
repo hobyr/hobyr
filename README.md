@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I'm a Mechanical Engineer, currently learning about Software Development, based in Osaka, Japan. :jp:
 
 - 🔭 I’m currently working on building knowledge and skills in Web Development
-- 🌱 I’m currently learning TensorFlow and Machine Learning algorithms
+- 🌱 I’m currently learning HTML5, CSS3 and soon JavaScript and related frameworks.
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn)](https://www.linkedin.com/in/hobyratefy)
 - ⚡ Fun fact: I use Ubuntu as my daily OS. Previously was on macOS for 10+ years.
 
