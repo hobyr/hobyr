@@ -25,6 +25,7 @@ I'm a Mechanical Engineer, currently learning about Software Development, based 
 - 🌱 I’m currently learning HTML5, CSS3 and soon JavaScript and related frameworks.
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn)](https://www.linkedin.com/in/hobyratefy)
 - ⚡ Fun fact: I use Ubuntu as my daily OS. Previously was on macOS for 10+ years.
+- 📝 I also have a blog to document my learning journey [here](https://hobyr.github.io)!
 
 ---
 
