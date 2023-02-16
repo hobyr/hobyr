@@ -51,7 +51,7 @@ I'm a Mechanical Engineer, currently learning about Software Development, based 
 
 ### :checkered_flag: Goals for this month (Feb. 2023)
 
-- [ ] Finish CSS Foundations section on The Odin Project
+- [x] Finish CSS Foundations section on The Odin Project
 - [ ] Finish the Tribute Page project on FreeCodeCamp
 - [ ] Complete the CSS sections on Colt Steele’s Udemy bootcamp
 
