@@ -49,13 +49,13 @@ I'm a Mechanical Engineer, currently learning about Software Development, based 
 
 ---
 
-### :checkered_flag: Goals for this month (March 2023)
-- [x] Finish the Tribute Page project on FreeCodeCamp (_Overdue Feb. 2023_)
-- [ ] Finish JavaScript Basics section on The Odin Project
-- [x] Finish Landing Page project on FreeCodeCamp
-- [ ] Get to section 23 (Newer JavaScript features) on Udemy bootcamp
+### :checkered_flag: Goals for this month (April 2023)
+- [ ] Finish JavaScript Basics section on The Odin Project (_Overdue March 2023_)
 
 **Already completed**
+- [x] Finish the Tribute Page project on FreeCodeCamp (_Overdue Feb. 2023_)
+- [x] Finish Landing Page project on FreeCodeCamp
+- [x] Get to section 23 (Newer JavaScript features) on Udemy bootcamp
 - [x] Finish CSS Foundations section on The Odin Project (_Feb. 2023_)
 - [x] Complete the CSS sections on Colt Steele’s Udemy bootcamp (_Feb. 2023_)
 - [x] Finish the Introduction section on The Odin Project (_Jan. 2023_)
